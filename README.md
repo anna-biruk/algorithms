@@ -1,0 +1,3 @@
+### Algorithms
+
+[Factorial](/factorial.js)
