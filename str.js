@@ -4,4 +4,4 @@ const reverse = (str) => {
         result = result + str[i];
     }
     return result;
-}
+};
