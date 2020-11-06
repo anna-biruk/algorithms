@@ -37,7 +37,6 @@ import async from 'async';
 
 const {waterfall} = async;
 
-// BEGIN (write your solution here)
 const unionFiles = (inputPath1, inputPath2, outputPath, cb) => {
     async.waterfall([
             (cb) => {
